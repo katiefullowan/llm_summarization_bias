@@ -1,0 +1,13 @@
+# Python 3.12.7
+
+jupyter==1.0.0
+matplotlib== 3.9.2
+nltk==3.9.1
+openai==1.108.1
+pandas==2.3.1
+regex==2024.9.11
+rouge_score==0.1.2
+scikit-learn==1.5.1
+scipy==1.13.1
+seaborn==0.13.2
+statsmodels==0.14.2
